@@ -21,7 +21,7 @@
 ![Learning](https://img.shields.io/static/v1?label=&message=Learning:&color=606060&style=flat)
 ![Kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=Kubernetes&color=4A154B&logoColor=AAA&style=flat)
 ![Docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=4A154B&logoColor=AAA&style=flat)
-![Spark](https://img.shields.io/static/v1?logo=apache-spark&label=&message=spark&color=4A154B&logoColor=AAA&style=flat)
+![Spark](https://img.shields.io/static/v1?logo=apache-spark&label=&message=Spark&color=4A154B&logoColor=AAA&style=flat)
 ![Airflow](https://img.shields.io/static/v1?logo=apache-spark&label=&message=Airflow&color=4A154B&logoColor=AAA&style=flat)
 ![Flyway](https://img.shields.io/static/v1?logo=flyway&label=&message=Flyway&color=4A154B&logoColor=AAA&style=flat)
 

@@ -21,7 +21,7 @@
 ![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=A9225C&logoColor=AAA&style=flat)
 ![Bootstrap](https://img.shields.io/static/v1?logo=bootstrap&label=&message=Bootstrap&color=A9225C&logoColor=AAA&style=flat)
 <br />
-![Certifications](https://img.shields.io/static/v1?label=&message=Certifications:&color=111&style=flat)
+![Certifications](https://img.shields.io/static/v1?label=&message=Certifications:&color=606060&style=flat)
 ![Certified Scrum Master](https://img.shields.io/static/v1?logo=scrumalliance&label=&message=Certified%20ScrumMaster&color=A9225C&logoColor=AAA&style=flat)
 <br />
 ![Learning](https://img.shields.io/static/v1?label=&message=Learning:&color=606060&style=flat)

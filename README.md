@@ -17,6 +17,12 @@
 ![Tools](https://img.shields.io/static/v1?label=&message=Tools:&color=606060&style=flat)
 ![Git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=A9225C&logoColor=AAA&style=flat)
 ![WordPress](https://img.shields.io/static/v1?logo=wordpress&label=&message=WordPress&color=A9225C&logoColor=AAA&style=flat)
+![Tailwind CSS](https://img.shields.io/static/v1?logo=tailwindcss&label=&message=Tailwind%20CSS&color=A9225C&logoColor=AAA&style=flat)
+![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=A9225C&logoColor=AAA&style=flat)
+![Bootstrap](https://img.shields.io/static/v1?logo=bootstrap&label=&message=Bootstrap&color=A9225C&logoColor=AAA&style=flat)
+<br />
+![Certifications](https://img.shields.io/static/v1?label=&message=Certifications:&color=111&style=flat)
+![Certified Scrum Master](https://img.shields.io/static/v1?logo=scrumalliance&label=&message=Certified%20ScrumMaster&color=A9225C&logoColor=AAA&style=flat)
 <br />
 ![Learning](https://img.shields.io/static/v1?label=&message=Learning:&color=606060&style=flat)
 ![Kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=Kubernetes&color=4A154B&logoColor=AAA&style=flat)

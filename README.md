@@ -42,8 +42,5 @@
 <a href="https://linkedin.com/in/katherineravenwood">
   <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/A9225C" />
 </a>
-<a href="https://behance.net/moertel">
-  <img align="left" alt="Katie's Behance" width="20px" src="https://simpleicons.now.sh/behance/A9225C" />
-</a>
 
 | &nbsp;&nbsp;&nbsp; Website : [https://katieravenwood.io](https://katieravenwood.io) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; Design Work: [Chapel Loft Creative](https://chapelloftcreative.com)

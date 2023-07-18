@@ -1,6 +1,6 @@
 # Hi y'all, I'm Katie. 
 
-#### Product & Project Manager / Business Analyst &#12299; _working in Public Health on Data Pipelines, CI/CD, and User Training_
+#### Product & Project Manager / Business Analyst &#12299; _working in Public Health on Data Pipelines, User Training, CI/CD & DevOps workflows_
 #### Musician &#12299; _working with woodwinds in musical theatre, new music, and rock bands, and on MainStage programming and patch customizations_
 
 

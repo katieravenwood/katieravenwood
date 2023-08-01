@@ -7,7 +7,7 @@
 ----
 
 ![Languages](https://img.shields.io/static/v1?label=&message=Languages:&color=606060&style=flat)
-![R](https://img.shields.io/static/v1?logo=sql&label=&message=SQL&color=A9225C&logoColor=AAA&style=flat)
+![SQL](https://img.shields.io/static/v1?logo=sql&label=&message=SQL&color=A9225C&logoColor=AAA&style=flat)
 ![R](https://img.shields.io/static/v1?logo=R&label=&message=R&color=A9225C&logoColor=AAA&style=flat)
 ![Python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=A9225C&logoColor=AAA&style=flat)
 ![Javascript](https://img.shields.io/static/v1?logo=JavaScript&label=&message=Javascript&color=A9225C&logoColor=AAA&style=flat)

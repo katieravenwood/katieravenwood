@@ -7,6 +7,7 @@
 ----
 
 ![Languages](https://img.shields.io/static/v1?label=&message=Languages:&color=606060&style=flat)
+![R](https://img.shields.io/static/v1?logo=sql&label=&message=SQL&color=A9225C&logoColor=AAA&style=flat)
 ![R](https://img.shields.io/static/v1?logo=R&label=&message=R&color=A9225C&logoColor=AAA&style=flat)
 ![Python](https://img.shields.io/static/v1?logo=python&label=&message=Python&color=A9225C&logoColor=AAA&style=flat)
 ![Javascript](https://img.shields.io/static/v1?logo=JavaScript&label=&message=Javascript&color=A9225C&logoColor=AAA&style=flat)
@@ -15,21 +16,25 @@
 ![CSS](https://img.shields.io/static/v1?logo=css&label=&message=CSS&color=A9225C&logoColor=AAA&style=flat)
 <br />
 ![Tools](https://img.shields.io/static/v1?label=&message=Tools:&color=606060&style=flat)
+![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=A9225C&logoColor=AAA&style=flat)
+![Node.js](https://img.shields.io/static/v1?logo=nodedotjs&label=&message=Node%2ejs&color=A9225C&logoColor=AAA&style=flat)
+![Gatsby](https://img.shields.io/static/v1?logo=gatsby&label=&message=Gatsby&color=A9225C&logoColor=AAA&style=flat)
+![TailwindCSS](https://img.shields.io/static/v1?logo=tailwindcss&label=&message=Tailwind%20CSS&color=A9225C&logoColor=AAA&style=flat)
+![Bootstrap](https://img.shields.io/static/v1?logo=bootstrap&label=&message=Bootstrap&color=A9225C&logoColor=AAA&style=flat)
 ![Git](https://img.shields.io/static/v1?logo=git&label=&message=Git&color=A9225C&logoColor=AAA&style=flat)
 ![WordPress](https://img.shields.io/static/v1?logo=wordpress&label=&message=WordPress&color=A9225C&logoColor=AAA&style=flat)
-![Tailwind CSS](https://img.shields.io/static/v1?logo=tailwindcss&label=&message=Tailwind%20CSS&color=A9225C&logoColor=AAA&style=flat)
-![React](https://img.shields.io/static/v1?logo=react&label=&message=React&color=A9225C&logoColor=AAA&style=flat)
-![Bootstrap](https://img.shields.io/static/v1?logo=bootstrap&label=&message=Bootstrap&color=A9225C&logoColor=AAA&style=flat)
 <br />
 ![Certifications](https://img.shields.io/static/v1?label=&message=Certifications:&color=606060&style=flat)
 ![Certified Scrum Master](https://img.shields.io/static/v1?logo=scrumalliance&label=&message=Certified%20ScrumMaster&color=A9225C&logoColor=AAA&style=flat)
 <br />
 ![Learning](https://img.shields.io/static/v1?label=&message=Learning:&color=606060&style=flat)
-![Kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=Kubernetes&color=4A154B&logoColor=AAA&style=flat)
+![Postgres](https://img.shields.io/static/v1?logo=postgreSQL&label=&message=PostgreSQL&color=4A154B&logoColor=AAA&style=flat)
+![SQLServer](https://img.shields.io/static/v1?logo=microsoftsqlserver&label=&message=Microsoft%20SQL%20Server&color=4A154B&logoColor=AAA&style=flat)
 ![Docker](https://img.shields.io/static/v1?logo=docker&label=&message=Docker&color=4A154B&logoColor=AAA&style=flat)
 ![Spark](https://img.shields.io/static/v1?logo=apache-spark&label=&message=Spark&color=4A154B&logoColor=AAA&style=flat)
 ![Airflow](https://img.shields.io/static/v1?logo=apache-spark&label=&message=Airflow&color=4A154B&logoColor=AAA&style=flat)
 ![Flyway](https://img.shields.io/static/v1?logo=flyway&label=&message=Flyway&color=4A154B&logoColor=AAA&style=flat)
+![Kubernetes](https://img.shields.io/static/v1?logo=kubernetes&label=&message=Kubernetes&color=4A154B&logoColor=AAA&style=flat)
 
 ----
 

@@ -39,13 +39,13 @@
 ----
 
 <a href="https://twitter.com/katieravenwood">
-  <img align="left" alt="Stefanie's Twitter" width="20px" src="https://simpleicons.now.sh/twitter/A9225C" />
+  <img align="left" alt="Katie Ravenwood on Twitter" width="20px" src="https://simpleicons.now.sh/twitter/A9225C" />
 </a>
 <a href="https://www.instagram.com/clarikatie/">
-  <img align="left" alt="Stefanie's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/A9225C" />
+  <img align="left" alt="Katie's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/A9225C" />
 </a>
 <a href="https://linkedin.com/in/katherineravenwood">
-  <img align="left" alt="Stefanie's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/A9225C" />
+  <img align="left" alt="Katie's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/A9225C" />
 </a>
 
 | &nbsp;&nbsp;&nbsp; Website : [https://katieravenwood.io](https://katieravenwood.io) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; Design Work: [Chapel Loft Creative](https://chapelloftcreative.com)

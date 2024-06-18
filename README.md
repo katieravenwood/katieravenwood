@@ -25,7 +25,7 @@
 ![WordPress](https://img.shields.io/static/v1?logo=wordpress&label=&message=WordPress&color=A9225C&logoColor=AAA&style=flat)
 <br />
 ![Certifications](https://img.shields.io/static/v1?label=&message=Certifications:&color=606060&style=flat)
-![Certified Scrum Master](https://img.shields.io/static/v1?logo=scrumalliance&label=&message=Certified%20ScrumMaster&color=A9225C&logoColor=AAA&style=flat)
+![Advanced Certified Scrum Master (A-CSM)](https://img.shields.io/static/v1?logo=scrumalliance&label=&message=Advanced%20Certified%20ScrumMaster&color=A9225C&logoColor=AAA&style=flat)
 <br />
 ![Learning](https://img.shields.io/static/v1?label=&message=Learning:&color=606060&style=flat)
 ![Postgres](https://img.shields.io/static/v1?logo=postgreSQL&label=&message=PostgreSQL&color=4A154B&logoColor=AAA&style=flat)

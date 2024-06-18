@@ -48,4 +48,4 @@
   <img align="left" alt="Katie's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/A9225C" />
 </a>
 
-| &nbsp;&nbsp;&nbsp; Website : [https://katieravenwood.github.io](https://katieravenwood.io) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; Design Work: [Chapel Loft Creative](https://chapelloftcreative.com)
+| &nbsp;&nbsp;&nbsp; Website : [https://katieravenwood.github.io](https://katieravenwood.github.io) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; Design Work: [Chapel Loft Creative](https://chapelloftcreative.com)

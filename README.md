@@ -38,8 +38,8 @@
 
 ----
 
-<a href="[https://twitter.com/katieravenwood](https://www.threads.net/@clarikatie)">
-  <img align="left" alt="Katie Ravenwood on Threads" width="20px" src="https://simpleicons.now.sh/threads/A9225C" />
+<a href="[https://bsky.app/profile/katieravenwood.bsky.social](https://bsky.app/profile/katieravenwood.bsky.social)">
+  <img align="left" alt="Katie Ravenwood on Threads" width="20px" src="https://simpleicons.now.sh/bluesky/A9225C" />
 </a>
 <a href="https://www.instagram.com/clarikatie/">
   <img align="left" alt="Katie's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/A9225C" />

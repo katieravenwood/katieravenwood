@@ -39,13 +39,10 @@
 ----
 
 <a href="[https://bsky.app/profile/katieravenwood.bsky.social](https://bsky.app/profile/katieravenwood.bsky.social)">
-  <img align="left" alt="Katie Ravenwood on Threads" width="20px" src="https://simpleicons.now.sh/bluesky/A9225C" />
-</a>
-<a href="https://www.instagram.com/clarikatie/">
-  <img align="left" alt="Katie's Instagram" width="20px" src="https://simpleicons.now.sh/instagram/A9225C" />
+  <img align="left" alt="Katie Ravenwood on Bluesky" width="20px" src="https://simpleicons.now.sh/bluesky/A9225C" />
 </a>
 <a href="https://linkedin.com/in/katieravenwood">
-  <img align="left" alt="Katie's LinkedIn" width="20px" src="https://simpleicons.now.sh/linkedin/A9225C" />
+  <img align="left" alt="Katie's LinkedIn" width="20px" src="https://img.icons8.com/?size=100&id=446&format=png&color=a9225c" />
 </a>
 
 | &nbsp;&nbsp;&nbsp; Website : [https://katieravenwood.github.io](https://katieravenwood.github.io) &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; Design Work: [Chapel Loft Creative](https://chapelloftcreative.com)
